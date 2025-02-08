@@ -1,0 +1,12 @@
+# Ignore system and hidden directories
+.conda/
+.ipynb_checkpoints/
+.ipython/
+.jupyter/
+.keras/
+AppData/
+NTUSER.*
+
+# Ignore specific file types
+*.csv
+*.ipynb
